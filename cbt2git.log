@@ -1,0 +1,9 @@
+2023-08-06 07:44:12.633320 - Initialized conversion of CBT814
+2023-08-06 07:44:13.028000 - Received CBT.V505.FILE814.PDS from FILE814.XMI 
+2023-08-06 07:44:13.030465 - Found $$$$READ.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$$$READ
+2023-08-06 07:44:13.031484 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:44:13.032447 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:44:13.033375 - Found $INDEX.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$INDEX
+2023-08-06 07:44:13.034291 - Found @FILE814.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/@FILE814
+2023-08-06 07:44:13.034302 - Found ZIP.zip (application/zip), trying to unzip
+2023-08-06 07:44:13.037655 - Found ZIP.zip (application/zip), extracting to CBT814/ZIP
