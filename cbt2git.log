@@ -1,7 +1,7 @@
-2025-04-13 23:05:06.382246 - Received CBT.V505.FILE814.PDS from FILE814.XMI 
-2025-04-13 23:05:06.383230 - Found $$$$READ.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$$$READ
-2025-04-13 23:05:06.383314 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:05:06.383374 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$NOTE1
-2025-04-13 23:05:06.383464 - Found $INDEX.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$INDEX
-2025-04-13 23:05:06.383535 - Found @FILE814.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/@FILE814
-2025-04-13 23:05:06.493947 - Found ZIP.zip (application/zip) in CBT.V505.FILE814.PDS, moved to ZIP
+2025-04-15 05:49:08.656649 - Received CBT.V505.FILE814.PDS from FILE814.XMI 
+2025-04-15 05:49:08.657583 - Found $$$$READ.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$$$READ
+2025-04-15 05:49:08.658068 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:49:08.658371 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:49:08.658975 - Found $INDEX.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/$INDEX
+2025-04-15 05:49:08.659285 - Found @FILE814.txt (text/plain) in CBT.V505.FILE814.PDS, moved to PDS/@FILE814
+2025-04-15 05:49:08.812707 - Found ZIP.zip (application/zip) in CBT.V505.FILE814.PDS, moved to ZIP
